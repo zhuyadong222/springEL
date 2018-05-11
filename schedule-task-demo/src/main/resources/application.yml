@@ -1,0 +1,6 @@
+# log
+logging:
+  config: classpath: logback.xml
+  path: C:/Users/YaDong/Desktop/最新/log
+#  level:
+#    root: info

@@ -1,0 +1,4 @@
+2018-05-11 09:59:38.647 [main] INFO  o.s.c.a.AnnotationConfigApplicationContext -Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6536e911: startup date [Fri May 11 09:59:38 CST 2018]; root of context hierarchy
+2018-05-11 09:59:40.122 [main] INFO  o.s.s.a.ScheduledAnnotationBeanPostProcessor -No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2018-05-11 10:39:10.576 [main] INFO  o.s.c.a.AnnotationConfigApplicationContext -Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6536e911: startup date [Fri May 11 10:39:10 CST 2018]; root of context hierarchy
+2018-05-11 10:39:11.528 [main] INFO  o.s.s.a.ScheduledAnnotationBeanPostProcessor -No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
